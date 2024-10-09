@@ -1,6 +1,4 @@
 # forbidden-forest
-# Section Heading
-
 Some body text of this section.
 
 <a name="my-custom-anchor-point"></a>
